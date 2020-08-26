@@ -10,4 +10,6 @@ Heres a link to the Fusion 360 cad files if you want to mofidy them. I used 1/8t
   -Change thickness to your material thickness
  
 https://a360.co/32oHtUl
+
+I used the waveshare E-Paper library, so you will need to install that
   
